@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp16">16dp</dimen>
+    <dimen name="zcds_margin_padding_size_small">8dp</dimen>
+    <dimen name="zcds_margin_padding_size_none">0dp</dimen>
+    <dimen name="kpi_selected_height">250dp</dimen>
+    <dimen name="kpi_unselected_height">240dp</dimen>
+    <dimen name="dp12">12dp</dimen>
+    <dimen name="dp152">152dp</dimen>
+    <dimen name="dp130">130dp</dimen>
+</resources>
